@@ -1,0 +1,1 @@
+An implementation of a sketchpad, the project requiring DOM manipulation using Javascript, as well as styling in the form of CSS.
